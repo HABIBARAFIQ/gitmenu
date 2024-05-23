@@ -35,7 +35,7 @@
 12) git commit -m "message"
  creates a new commit with a brief commit message
 
-//--------------------2nd_class------------------------
+//--------------------2nd_class-----------------------
 
 13) git remote add <respiratory_name> <respiratory_link>
  Adds a remote repository to your local Git configuration.
