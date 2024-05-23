@@ -70,3 +70,6 @@
 23) git reset --hard <repo_name>/master
  Resets your local branch to match the specified remote branch.
 
+24) git remote rename <old_name> <new_name>
+ Changes the name of a remote repository.
+
