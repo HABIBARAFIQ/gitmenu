@@ -32,38 +32,41 @@
 11) rm -rf <folder_name>
  Permanently removes a folder and its contents.!!!!!!!be careful!!!!!!!
 
+12) git commit -m "message"
+ creates a new commit with a brief commit message
+
 //--------------------2nd_class------------------------
 
-12) git remote add <respiratory_name> <respiratory_link>
+13) git remote add <respiratory_name> <respiratory_link>
  Adds a remote repository to your local Git configuration.
 
-13) git remote -v
+14) git remote -v
  Lists all configured remote repositories.
 
-14) git remote
+15) git remote
  Lists the names of remote repositories.
 
-15) git push <repo_name> master
+16) git push <repo_name> master
   Pushes your local commits to the specified remote repository’s master branch.
 
-16) git branch <branch_name>
+17) git branch <branch_name>
  Creates a new branch with the specified name.
 
-17) git checkout <branch_name>
+18) git checkout <branch_name>
   Switches to the specified branch.
 
-18) git checkout -b <branch_name>
+19) git checkout -b <branch_name>
  Create new branch and switches to the new one/already exists
 
-19) git commit --amend
+20) git commit --amend
  Modifies the last commit message.
 
-20) git push <repo_name> <branch_name> -f
+21) git push <repo_name> <branch_name> -f
  Forces a push to the specified branch in the remote repository.
 
-21) git fetch
+22) git fetch
  Retrieves changes from a remote repository without merging them.
 
-22) git reset --hard <repo_name>/master
+23) git reset --hard <repo_name>/master
  Resets your local branch to match the specified remote branch.
 
