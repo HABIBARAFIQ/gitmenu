@@ -67,3 +67,8 @@
 22) git reset --hard <repo_name>/master
  Resets your local branch to match the specified remote branch.
 
+23)
+
+
+24)
+
