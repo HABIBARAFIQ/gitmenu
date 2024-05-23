@@ -32,8 +32,6 @@
 11) rm -rf <folder_name>
  Permanently removes a folder and its contents.!!!!!!!be careful!!!!!!!
 
-12) git commit -m "message"
- creates a new commit with a brief commit message
 
 //--------------------2nd_class------------------------
 
