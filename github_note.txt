@@ -73,5 +73,5 @@
 24) git remote rename <old_name> <new_name>
  Changes the name of a remote repository
 
-//----
+
 
